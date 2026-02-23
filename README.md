@@ -1,4 +1,4 @@
-# dyas-organizador-tiempo
+# Priorix
 
 ### Requerimientos funcionales
 1. Gestión de eventos y tareas
